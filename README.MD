@@ -3,7 +3,7 @@
 ## past201912_a	A. 2 倍チェック / Is It a Number?
 |C  |C++|C# |Bash|Go |Kotlin|Python3|Ruby|Rust|Typescript|
 |---|---|---|----|---|------|-------|----|----|----------|
-|O  |O  |O  |    |||||||
+|O  |O  |O  |    |   |      |O      |    |    |O         |
 ---
 
 ## past201912_b    B. 増減管理 / Up and Down　　
