@@ -6,10 +6,10 @@
 |OK |OK |OK |OK  |OK |OK    |OK     |OK  |    |OK        |
 ---
 
-## past201912_b    B. 増減管理 / Up and Down　　
+## past201912_b    [B. 増減管理 / Up and Down](https://atcoder.jp/contests/past201912-open/tasks/past201912_b)　　
 |C  |C++|C# |Bash|Go |Kotlin|Python3|Ruby|Rust|Typescript|
 |---|---|---|----|---|------|-------|----|----|----------|
-|||||||||||
+|OK ||||||||||
 ---
 
 ## past201912_c    C. 3 番目 / The Third　　
