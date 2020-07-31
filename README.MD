@@ -1,18 +1,24 @@
 # [ATCODERSTUDY](https://atcoder-tags.herokuapp.com/tag_search/Easy)
 
-## past201912_a	A. 2 倍チェック / Is It a Number?
+## [A. 2 倍チェック / Is It a Number?](https://atcoder.jp/contests/past201912-open/tasks/past201912_a)
 |C  |C++|C# |Bash|Go |Kotlin|Python3|Ruby|Rust|Typescript|
 |---|---|---|----|---|------|-------|----|----|----------|
 |OK |OK |OK |OK  |OK |OK    |OK     |OK  |    |OK        |
 ---
 
-## past201912_b    [B. 増減管理 / Up and Down](https://atcoder.jp/contests/past201912-open/tasks/past201912_b)　　
+## [B. 増減管理 / Up and Down](https://atcoder.jp/contests/past201912-open/tasks/past201912_b)　　
 |C  |C++|C# |Bash|Go |Kotlin|Python3|Ruby|Rust|Typescript|
 |---|---|---|----|---|------|-------|----|----|----------|
 |OK ||||||||||
 ---
 
-## past201912_c    C. 3 番目 / The Third　　
+## [C. 3 番目 / The Third](https://atcoder.jp/contests/past201912-open/tasks/past201912_c)　　
+|C  |C++|C# |Bash|Go |Kotlin|Python3|Ruby|Rust|Typescript|
+|---|---|---|----|---|------|-------|----|----|----------|
+|OK ||||||||||
+---
+
+## [D. 重複検査 / Duplicated?](https://atcoder.jp/contests/past201912-open/tasks/past201912_d)  
 |C  |C++|C# |Bash|Go |Kotlin|Python3|Ruby|Rust|Typescript|
 |---|---|---|----|---|------|-------|----|----|----------|
 |||||||||||
